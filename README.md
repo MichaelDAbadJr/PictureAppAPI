@@ -1,4 +1,4 @@
-# PicturePlaceApp - Frontend
+# PicturePlaceApp - Backend
 
 ## Overview
 
