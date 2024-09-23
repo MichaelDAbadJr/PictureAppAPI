@@ -26,7 +26,7 @@ link to the frontend repository -->
 - **CRUD Operations for Users & Places::** Full functionality to Create, Read, Update, and Delete user and place entries, enabling users to manage their favorite locations effortlessly.
 - **Data Validation:** Comprehensive input validation using Express-validator, ensuring data integrity and user input safety across all API requests.
 - **User-Specific Data:** Each user can create and manage their own places, promoting personalized experiences within the application.
-- **User-Specific Data:** Built on Node.js and Express, providing a scalable foundation to accommodate future growth and additional features.
+- **Scalable Features:** Built on Node.js and Express, providing a scalable foundation to accommodate future growth and additional features.
 - **Middleware Protection:** Implemented middleware for authentication checks and file handling, enhancing the security and reliability of API interactions.
 
 ## Getting Started
