@@ -5,6 +5,7 @@
 This is the backend API to a fullstack Picture Place application. Built using Node.js and Express, providing RESTful APIs for user authentication and place management. It integrates with MongoDB for data storage and utilizes Google Cloud Storage for image uploads. The application employs JWT (JSON Web Tokens) for secure authentication and Bcrypt for password hashing, ensuring that user credentials are managed safely. This API is deployed on the Google App Engine for seemless integration with Google Cloud Services.
 
 <a href="https://junmike-picture-place.netlify.app/" target="_blank">View Live Website</a>
+</br>
 <img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/PicturePlace-Cover.jpg" width="500">
 
 link to the frontend repository -->
